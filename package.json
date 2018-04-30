@@ -13,9 +13,9 @@
     "apollo-link": "^1.2.1",
     "apollo-link-context": "^1.0.5",
     "apollo-link-http": "^1.0.0",
-    "apollo-link-persisted-queries": "^0.1.0",
+    "apollo-link-persisted-queries": "^0.2.0",
     "apollo-link-ws": "^1.0.0",
-    "apollo-upload-client": "^7.0.0-alpha.4",
+    "apollo-upload-client": "^8.0.0",
     "apollo-utilities": "^1.0.1",
     "graphql": "^0.13.0",
     "subscriptions-transport-ws": "^0.9.5",
@@ -26,9 +26,9 @@
     "@vue/cli-plugin-babel": "^3.0.0-beta.6",
     "@vue/cli-plugin-eslint": "^3.0.0-beta.6",
     "@vue/cli-service": "^3.0.0-beta.6",
-    "eslint-plugin-graphql": "^1.5.0",
+    "eslint-plugin-graphql": "^2.1.0",
     "graphql-tag": "^2.5.0",
-    "vue-cli-plugin-apollo": "^0.6.1",
+    "vue-cli-plugin-apollo": "^0.7.9",
     "vue-template-compiler": "^2.5.13"
   },
   "babel": {
